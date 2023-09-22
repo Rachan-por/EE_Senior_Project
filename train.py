@@ -60,7 +60,7 @@ optimizer = torch.optim.Adam(model.parameters(),
                              lr=LEARNING_RATE)
 
 if __name__ == '__main__':
-    wandb.login(key='f110a602e329c7d1f51a3e816bdcea9d1a547243')
+    wandb.login(key='Yours')
 
     wandb.init(
         # Set the project where this run will be logged
