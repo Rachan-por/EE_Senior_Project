@@ -1,5 +1,5 @@
 # EE_senior_project:
-**Image Super Resolution Improvement Using Image Enhancement Model**
+**Image Super Resolution Improvement Using Denoising Diffusion Model**
 
 ## Data Prepare (prepare_data.m)
 * prepare_data.m is a matlab file to resize image to low resolution.
